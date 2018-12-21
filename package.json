@@ -1,0 +1,18 @@
+{
+  "name": "react-auth-validation",
+  "version": "1.0.0",
+  "description": "simple javascript libaray for Login and Register Validation",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harisbaig100/react-auth-validation.git"
+  },
+  "author": "M.Haris Baig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harisbaig100/react-auth-validation/issues"
+  },
+  "homepage": "https://github.com/harisbaig100/react-auth-validation#readme"
+}
