@@ -1,7 +1,7 @@
 {
-  "name": "react-auth-validation",
+  "name": "pre-post-validation",
   "version": "1.0.0",
-  "description": "simple javascript libaray for Login and Register Validation",
+  "description": "simple javascript libaray for user input validation before POST request",
   "main": "index.js",
   "scripts": {
   },
