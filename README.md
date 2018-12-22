@@ -6,12 +6,12 @@ fields include `name, email, password, confirm_password `
  
 # The validation checks for the following
 
-### Name must be between 2 and 30 characters
-### Name required
-### Email required and is not invalid.
-### Password required and must be at least 6 characters 
-### Confirm Password field is required 
-### Passwords must match.
+Name must be between 2 and 30 characters
+Name required
+Email required and is not invalid.
+Password required and must be at least 6 characters 
+Confirm Password field is required 
+Passwords must match.
 
 ### practical usage
 
